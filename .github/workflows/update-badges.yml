@@ -1,9 +1,9 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+  workflow_dispatch:    # run manually
+  schedule:             # Runs at 1am UTC on Sunday
+    - cron: "0 1 * * 0"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,3 +11,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: margauxvp/badge-readme@main
+        with:
+          CREDLY_USER: Margaux Vander Plaetsen # optional, but default will use the same from github
+          CREDLY_SORT: POPULAR    
+          
