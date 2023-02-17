@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: margauxvp/badge-readme@main
+        uses: margauxvp/badge-readme@2.3.0
         with:
           CREDLY_USER: Margaux Vander Plaetsen # optional, but default will use the same from github
           CREDLY_SORT: POPULAR    
