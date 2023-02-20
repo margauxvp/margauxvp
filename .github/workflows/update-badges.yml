@@ -13,3 +13,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: margaux
+          CREDLY_SORT: POPULAR
+          BADGE_SIZE: 60x60
