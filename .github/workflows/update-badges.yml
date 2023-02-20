@@ -14,4 +14,3 @@ jobs:
         with:       
           CREDLY_USER: margaux
           CREDLY_SORT: POPULAR
-          BADGE_SIZE: 150x150
