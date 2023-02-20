@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: michaelcontento/credly-import-action@v1
-        with:
-          # The user of whom we want to grab the infos
-          name: margaux
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: margaux
