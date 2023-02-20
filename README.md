@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microsoft, specializing in the design and management of data and AI solutions on the cloud and driving business decisions. With a background in business engineering and a Master's degree in data analytics from UGent, I have a foundation in both business and data analytics. Prior to my current role, I worked as a data engineer, gaining experience in data pipelines and machine learning model development.
 
 #### 🌱 My Badges
 <!--START_SECTION:badges-->
