@@ -1,8 +1,8 @@
 name: Update badges
 
 on:
-  workflow_dispatch:    # run manually
-  schedule:             # Runs at 1am UTC on Sunday
+  workflow_dispatch: # run manually
+  schedule:          # Runs at 1am UTC on Sunday
     - cron: "0 1 * * 0"
 jobs:
   update-readme:
@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
+        with:
+          CREDLY_SORT: POPULAR
