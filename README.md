@@ -21,11 +21,10 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 <!--END_SECTION:badges-->
 
 #### 📜 My recent blog posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1" alt="Recent Article 1"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0" alt="Recent Article 0"> 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2" alt="Recent Article 2"> 
 
-<a target="_blank" href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=margauxvanderplaetsen/0"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=margauxvanderplaetsen/0" alt="Recent Article 0"> 
 
 <!--
 **margauxvp/margauxvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
