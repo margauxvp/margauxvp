@@ -23,9 +23,8 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 #### 📜 My recent blog posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0" alt="Recent Article 0"> 
 
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+<a target="_blank" href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=margauxvanderplaetsen/0"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=margauxvanderplaetsen/0" alt="Recent Article 0"> 
+
 <!--
 **margauxvp/margauxvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
