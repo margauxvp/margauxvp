@@ -10,9 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.0
+        uses: michaelcontento/credly-import-action@v1
         with:
-          repo-token: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: margauxvp/margauxvp
-          CREDLY_USER: margaux
-          CREDLY_SORT: POPULAR
+          # The user of whom we want to grab the infos
+          name: margaux
