@@ -25,6 +25,8 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2" alt="Recent Article 1"> 
 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1" alt="Recent Article 1"> 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2" alt="Recent Article 2"> 
 
 
