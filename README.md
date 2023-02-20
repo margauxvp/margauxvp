@@ -27,7 +27,11 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2" alt="Recent Article 2"> 
 
-
+<!-- BLOG-POST-LIST:START -->
+- [Azure ML & OpenAI](<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0" alt="Recent Article 0">)
+- [10 Tips for Writing Better Markdown](https://medium.com/@me/10-tips-for-writing-better-markdown-7bc1f9d593e8)
+- [Why I Love Medium](https://medium.com/@me/why-i-love-medium-3f7d6c8cbe1b)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **margauxvp/margauxvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
