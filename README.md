@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### My Badges
+#### 🌱 My Badges
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/17746317-6850-4c6a-9f4f-1713a3cc903c "Microsoft Certified: Azure Fundamentals")
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/110x110/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/77a6942c-ee0e-4f7a-8b50-595e4592527d "Microsoft Certified: Azure Data Engineer Associate")
@@ -19,6 +19,10 @@
 [![MCSA: SQL 2016 Database Development - Certified 2021](https://images.credly.com/size/110x110/images/252a3123-bed6-41ca-99f5-9afc773f4493/MCSA-SQL_2016_Database_Development-600x600.png)](http://www.credly.com/badges/f86dabcb-7b9b-425a-86e0-05b94bbf683a "MCSA: SQL 2016 Database Development - Certified 2021")
 <!--END_SECTION:badges-->
 
+#### 📜 My recent blog posts
+{{range rss "https://.../posts/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 <!--
 **margauxvp/margauxvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
