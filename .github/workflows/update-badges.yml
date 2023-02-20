@@ -12,7 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          repo-token: ${{ secrets.GH_TOKEN }}
           REPOSITORY: margauxvp/margauxvp
           CREDLY_USER: margaux
           CREDLY_SORT: POPULAR
