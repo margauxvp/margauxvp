@@ -6,6 +6,7 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 * [Empower your business with data-driven insights through Synapse & Power BI @Microsoft Digital AmBEtion Days](https://pulse.microsoft.com/nl-be/microsoft-digital-ambetion-days-2023/)
 * [Unleash the Power of NLP: Journey from TF-IDF to ChatGPT with Azure OpenAI @AZUG](https://www.azug.be/events/2023/02/07/connected-manufacturing-using-azure-services)
 * [Accelerating the future with LLMs and GPUPower @NVIDIA AI Expert Program FY24](https://www.nvidia.com/en-gb/deep-learning-ai/ai-expert/)
+* [Data Management and Governance @Capgemini Advisory Day](https://www.linkedin.com/posts/margaux-vander-plaetsen_azurepurview-blockchain-sustainabilty-activity-6912714375577358337-4Qvr?utm_source=share&utm_medium=member_desktop)
 * [Data Governance: Azure Purview @Data Meetup Antwerp](https://www.linkedin.com/events/datameetupmaart-datagovernance6900093322313248768/comments/)
 * [Azure Purview - what it is and how you make it work for your organization @Microsoft Customer Success Week](https://info.microsoft.com/WE-HW-CATALOG-FY22-01Jan-11-21-02-23-02-Customer-Success-Week-MODERN-WORK-SRDEM98872_Catalog-Display-Page.html)
 <!-- PUBLIC-SPEAKING-LIST:END -->
