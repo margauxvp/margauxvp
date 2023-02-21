@@ -29,6 +29,7 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 [![MCSE: Data Management and Analytics — Certified 2021](https://images.credly.com/size/110x110/images/488561b5-b6d3-4a6b-9b2a-094bfbd84cff/MCSE-Data_Management_and_Analytics-600x600.png)](http://www.credly.com/badges/57ba0b01-a997-4af2-8feb-40d6e2a8b7ad "MCSE: Data Management and Analytics — Certified 2021")
 [![MCSA: SQL 2016 Database Development - Certified 2021](https://images.credly.com/size/110x110/images/252a3123-bed6-41ca-99f5-9afc773f4493/MCSA-SQL_2016_Database_Development-600x600.png)](http://www.credly.com/badges/f86dabcb-7b9b-425a-86e0-05b94bbf683a "MCSA: SQL 2016 Database Development - Certified 2021")
 <!--END_SECTION:badges-->
+*Find all my badges [here]([https://medium.com/@margauxvanderplaetsen](https://www.credly.com/users/margaux/badges))*
 
 #### 📜 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
