@@ -4,10 +4,11 @@ My name is Margaux and I am a Cloud Solution Architect in Data and AI at Microso
 #### 🎤 Public Speaking
 **Upcoming**
 <!-- PUBLIC-SPEAKING-LIST:START -->
-* [Navigating the Jungle of ML: Using MLOps in Azure to Track and Tame Data and Model Drift @Techorama](https://techorama.be/agenda/session/navigating-the-jungle-of-ml-using-mlops-in-azure-to-track-and-tame-data-and-model-drift/)
+* [Navigating the Jungle of ML: Using MLOps in Azure to Track and Tame Data and Model Drift @dataMindsConnect](https://datamindsconnect.be/agenda/)
 
 
 **Done**
+* [Navigating the Jungle of ML: Using MLOps in Azure to Track and Tame Data and Model Drift @Techorama](https://techorama.be/agenda/session/navigating-the-jungle-of-ml-using-mlops-in-azure-to-track-and-tame-data-and-model-drift/)
 * [Like innovation, chat GPT is about asking the right questions @AI4Belgium](https://aiweek.ai4belgium.be/en/program-2023/#/item/like-innovation_-chat-gpt-is-about-asking-the-right-questions)
 * [The Evolution of NLP: From TF-IDF to ChatGPT and Azure OpenAI @MiCRONOS TechTrain](https://www.meetup.com/nl-NL/techtrain-mechelen/events/292090211/)
 * [Empower your business with data-driven insights through Synapse & Power BI @Microsoft Digital AmBEtion Days](https://pulse.microsoft.com/nl-be/microsoft-digital-ambetion-days-2023/)
